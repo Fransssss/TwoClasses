@@ -3,7 +3,7 @@ Create two class, one for a person name and age, one for person's gender
 
 Goals
 - Create two classe
-- Use both classes at the same time (connected to each other)
+- Use both classes at the same time (connected to each other | see code for details)
 
 
 Example Output
